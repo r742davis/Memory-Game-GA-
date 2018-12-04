@@ -102,3 +102,12 @@ footer {
   letter-spacing: 0.08em;
   font-weight: 500;
 }
+
+.button {
+  background-color: #00a6b3;
+  color: white;
+  text-align: center;
+  font: "Raleway", sans-serif;
+  display: inline-block;
+  width: 75px;
+}
